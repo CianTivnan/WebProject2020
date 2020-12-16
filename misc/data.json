@@ -1,0 +1,172 @@
+{
+  "Scifi": [
+  {
+  "ItemID": "001",
+  "Manufacturer": "Bandai",
+  "Name": "HG 1/144 Unicorn Gundam",
+  "Price": "19.99",
+  "ImgUrl": "images/unicorn.jpg",
+  "Desc": "Marking Bandai's 100th entry in the High Grade Universal Century plastic kit series, here's an incredibly detailed snap-fit kit of the titular mecha from Mobile Suit Gundam UC in Destroy Mode! This milestone kit comes molded in color and features newly introduced polycap joints that allow for a wider range of posing possibilities! Its psycoframe is molded in clear pink plastic, and it comes armed with two beam sabers, a beam magnum, and a shield. Foil stickers are provided for detail. Includes exploded-view pictorial-type instructions, with notes in Japanese.",
+  "Tags": ["bandai", "unicorn", "gundam", "1/144", "kit", "plastic", "scifi"]
+  },
+  
+  {
+  "ItemID": "002",
+  "Manufacturer": "Bandai",
+  "Name": "MG 1/100 RX-78FA Full Armour Gundam",
+  "Price": "69.99",
+  "ImgUrl": "images/fagundam.jpg",
+  "Desc": "The Full Armor Gundam from Gundam Thunderbolt gets a Ver. Ka Master Grade release, and it's spectacular! Flexible vinyl cover most of the joints, and the Full Armor package loads it up with weaponry and armor! It also features detailed hands, a stand, and much more! ",
+  "Tags": ["bandai", "rx-78fa", "full armour", "gundam", "1/100", "kit", "plastic", "sci-fi"]
+  },
+ 
+  {
+  "ItemID": "003",
+  "Manufacturer": "Bandai",
+  "Name": "RG 1/144 Sazabi",
+  "Price": "49.99",
+  "ImgUrl": "images/sazabi.jpg",
+  "Desc": "This is the Sazabi you've been waiting for: the RG realization of the mobile suit piloted by the Red Comet, Char Aznable himself, in Mobile Suit Gundam: Char's Counterattack! This Sazabi kit was created in pursuit of a realistic, detailed representation of the mobile suit from the series. Even simple armaments like the arm cylinders and funnels, as well as propulsion mechanisms like the verniers and backpack, have been faithfully recreated. The mechanisms in this kit and its high range of motion allow for the recreation of a variety of poses from the movie, despite being condensed into 1/144 small scale kit, thanks to the carefully crafted lifelike gimmicks for which the RG line is known.",
+  "Tags": ["bandai", "sazabi", "1/144", "kit", "plastic", "sci-fi"]
+  },
+
+  {
+  "ItemID": "004",
+  "Manufacturer": "Kotobukiya",
+  "Name": "1/72 Lineark White Glint",
+  "Price": "64.99",
+  "ImgUrl": "images/glint.jpg",
+  "Desc": "The infamous White Glint from Armored Core: For Answer video game makes its much-anticipated release as this super-detailed plastic kit from Kotobukiya! Its mostly snap-fit parts (cement is required for just a few parts) come molded in color, and the kit will stand 16cm tall upon completion. Polycaps are used for joints, allowing for a wide range of action poses. Features include openable covers on its Overed Boost and its head can store inside its body. Painting is required if you want it to be accurate to its video game counterpart or to the painted sample depicted on the packaging.",
+  "Tags": ["kotobukiya", "white glint", "1/72", "kit", "plastic", "sci-fi"]
+  }
+  ],
+  
+  "Cars": [
+  {
+  "ItemID": "005",
+  "Manufacturer": "Tamiya",
+  "Name": "1/24 Subaru Impreza WRC '98 Monte Carlo",
+  "Price": "18.99",
+  "ImgUrl": "images/impreza.jpg",
+  "Desc": "This is a plastic model assembly kit recreating the 1998 version of the famed Subaru Impreza WRC. From the honed body to the numerous rally-specific features such as rear wing and night stage lights, the form of the car is captured in style. Tires features realistic tread pattern.",
+  "Tags": ["tamiya", "subaru", "impreza", "wrc", "1/24", "kit", "plastic", "cars"]
+  },
+
+  {
+  "ItemID": "006",
+  "Manufacturer": "Tamiya",
+  "Name": "1/24 Mitsubishi Lancer Evolution V WRC",
+  "Price": "21.99",
+  "ImgUrl": "images/evo.jpg",
+  "Desc": "This is a plastic model assembly kit depicting the Catalonia Rally spec of the car which would become a rallying champion in 1998. From the sculpted front bumper to the sporty rear end and over fenders, the form of the car is recreated in style. A detailed interior features many rally-specific items. Also depicted are underside suspension, lower section of engine, 4WD mechanism and more",
+  "Tags": ["tamiya", "mitshubishi", "lancer", "evo", "evolution", "wrc", "1/24", "kit", "plastic", "cars"]
+  },
+
+  {
+  "ItemID": "007",
+  "Manufacturer": "Fujimi",
+  "Name": "1/24 Honda Civic Type R EK9",
+  "Price": "23.99",
+  "ImgUrl": "images/civic.jpg",
+  "Desc": "The first Civic to receive the 'Type R' name was based on the 6th-generation 'EK' Civic. The contributing base model was the JDM Civic 3-door hatchback called SiR, code named EK4. Like its big brother the Integra Type R DC2/JDM DB8, the Civic SiR's transformation into a Type R was achieved by working on the base model and improving it to Honda's idea of a car capable of high performance on the circuit.",
+  "Tags": ["fujimi", "honda", "civic", "type r", "ek9", "1/24", "kit", "plastic", "cars"]
+  },
+
+  {
+  "ItemID": "008",
+  "Manufacturer": "Tamiya",
+  "Name": "1/24 Toyota 86",
+  "Price": "29.99",
+  "ImgUrl": "images/toyota86.jpg",
+  "Desc": "Dynamic body lines of the FR sports car are accurately reproduced. Hood may be posed open to showcase the detailed engine compartment with boxer engine. Front wheels are linked with steering wheel. Manufacturer emblems and mirror surfaces depicted with metal transfers. Underbody features suspension and drivetrain details. Metal-plated headlight and taillight fixtures add an eye-catching touch.",
+  "Tags": ["tamiya", "toyota", "86", "1/24", "kit", "plastic", "cars"]
+  }
+ ],
+
+ "Planes": [
+  
+  {
+  "ItemID": "009",
+  "Manufacturer": "Tamiya",
+  "Name": "1/48 Grumman F-14A Tomcat",
+  "Price": "48.99",
+  "ImgUrl": "images/tomcat.jpg",
+  "Desc": "This is a 1/48 scale plastic model assembly kit of the Grumman F-14A Tomcat. Fuselage length: 398mm, Maximum Wingspan: 408mm. Designed with access to real F-14A Tomcats for superlative accuracy. Features moving depiction of variable sweep wing. 2 sets of parts - interchangeable after completion - depict sealing plates and air bags with wing in fully swept and fully forward positions. Slide molding was used to ensure highly realistic canopy, air intake side and fuselage side sections. Poly caps allow movement of horizontal stabilizers. The model offers a choice of parts to depict open or closed engine afterburner nozzles. Separate parts are included to depict the fuel probe on the right of the nose, and the ladder on the left. Comes with two U.S. marking schemes and one for the Islamic Republic of Iran Air Force.",
+  "Tags": ["tamiya", "f-14a", "tomcat", "grumman", "1/48", "kit", "plastic", "planes"]
+  },
+
+  {
+  "ItemID": "010",
+  "Manufacturer": "Hasegawa",
+  "Name": "1/72 Fairchild A-10C Thunderbolt II",
+  "Price": "28.99",
+  "ImgUrl": "images/a10.jpg",
+  "Desc": "The Republic A-10 Thunderbolt II is easily the most effective close air support aircraft in history. Designed as a tank killer during the Cold War, the A-10 is armed with the 30mm GAU-8 Avenger gatling gun which can fire a 30mm round with a spent uranium core which will defeat nearly any armored adversary on the battlefield. The aircraft has ten pylons under the wings/fuselage which can carry a wide range of weapons and stores.",
+  "Tags": ["hasegawa", "a-10c", "fairchild", "thunderbolt", "1/72", "kit", "plastic", "planes"]
+  },
+
+  {
+  "ItemID": "011",
+  "Manufacturer": "Arma Hobby",
+  "Name": "1/72 Hawker Hurricane MKIIB/C",
+  "Price": "24.99",
+  "ImgUrl": "images/hurricane.jpg",
+  "Desc": "The Hurricane Mk.II was fitted with more powerful Merlin XXX engines than the Mk.I; the nose was extended by 11.4cm and a larger radiator was also fitted. The Mk.IIb was equipped with twelve .303-caliber machine guns, and was capable of carrying two 500lb bombs, earning it the nickname the Hariboomer. The Mk.IIc was equipped with four 20mm Hispano-Suiza machine guns, which provided superior firepower and flight performance by reducing the number of guns and overall weight. This 1/72-scale kit can be assembled as either the Mk.IIc or Mk.IIb; newly molded wings for the Mk.IIb are included. Also included are a bomb rack, two bombs, an extra 45-gallon tank, the initial exhaust pipes and tailwheel. Photo-etched parts and painting mask stickers are also included, as are decals for six different markings from TechMod (three each for the Mk.IIb and Mk.IIc). Order yours today!",
+  "Tags": ["arma hobby", "hawker", "hurricane", "mkii", "1/72", "kit", "plastic", "planes"]
+  },
+
+  {
+  "ItemID": "012",
+  "Manufacturer": "Meng",
+  "Name": "1/48 Lockheed-Martin F-35A Lightning II",
+  "Price": "44.99",
+  "ImgUrl": "images/lightning.jpg",
+  "Desc": "The F-35 Lightning II was developed mainly by the American aircraft manufacturer Lockheed Martin. Eight countries other than the United States participated in the development of this aircraft, and this particular version was developed for the Netherlands. The F-35 is divided into A, B and C types depending on the takeoff method. The A type is CTOL (normal takeoff type), the B type is STOVL (short-range takeoff/vertical landing), and C is the designation for ship-borne aircraft.  It is a fifth-generation stealth aircraft with a single engine (the output of which matches or surpasses fourth- or 4.5th-generation twin-engine fighters). It is now also equipped with a 360-degree-view operation system and helmet display, carrying more electronics than the F-22 Raptor. This kit builds into a replica of the F-35A deployed in the Royal Air Force 323rd Squadron in the Netherlands, with a special 70th-anniversary graphic of Diana, the goddess of the hunt, on the aircraft's tail. The kit will be 32.6cm long with a wingspan of 22.3cm when completed.",
+  "Tags": ["meng", "lockheed-martin", "lockheed","f-35a", "lightning", "lightning ii", "mkii", "1/72", "kit", "plastic", "planes"]
+  }
+ ],
+ 
+ "Tanks": [
+  
+  {
+  "ItemID": "013",
+  "Manufacturer": "Border Models",
+  "Name": "1/35 German Tiger I Early Production Type",
+  "Price": "29.99",
+  "ImgUrl": "images/tiger.jpg",
+  "Desc": "This kit from Border Models of the early production type of the Tiger I German tank is a new mold! It comes with a metal barrel and photo-etched parts, as well as various accessories. Order yours today!",
+  "Tags": ["border models", "german", "tiger","early production", "1/35", "kit", "plastic", "tanks"]
+  }, 
+
+  {
+  "ItemID": "014",
+  "Manufacturer": "Pit-Road",
+  "Name": "1/72 JGSDF Type 90 Main Battle Tank",
+  "Price": "21.99",
+  "ImgUrl": "images/type90.jpg",
+  "Desc": "Japan's front-line MBT. Enjoying newfound popularity in Japan due to its prominent role in the recent Gamera turtle-monster SF movie. Comes with optional river-crossing parts (snorkels and stuff). Also includes clear parts for the commander's and gunner's sights. Continuous belt-type tracks. Two JGSDF figures are also included.",
+  "Tags": ["pit-road", "jgsdf", "type 90","main battle tank", "1/72", "kit", "plastic", "tanks"]
+  },
+
+  {
+  "ItemID": "015",
+  "Manufacturer": "Hobby Boss",
+  "Name": "1/35 LVKV 90C Anti-Air Vehicle",
+  "Price": "89.99",
+  "ImgUrl": "images/lvkv.jpg",
+  "Desc": "The LvKv 90C is an anti-aircraft artillery vehicle based on the Strf 90C, which is a variation of the CF90 infantry fighting vehicle developed by Sweden. Increased armor is attached to the front and sides of the turret and hull; it also has a cylindrical TRS2620 search radar mounted on top of the turret and a firing control system that can handle six targets simultaneously. This accurately modeled kit features assembly tracks and photo-etched parts. Order yours today!",
+  "Tags": ["hobby boss", "lvkv 90c", "90c","lvkv", "anti-air", "1/35", "kit", "plastic", "tanks"]
+  },
+
+  {
+  "ItemID": "016",
+  "Manufacturer": "Border Models",
+  "Name": "1/72 Leopard 2 A5/A6",
+  "Price": "24.99",
+  "ImgUrl": "images/leopard.jpg",
+  "Desc": "This kit of the German Leopard 2 A5/A6 tank is a completely new mold! You can build it as either the A5 or A6 version, and photo-etched parts are included. Order yours now!",
+  "Tags": ["border models", "leopard 2", "a5", "a6", "1/72", "kit", "plastic", "tanks"]
+  }
+
+ ]
+}

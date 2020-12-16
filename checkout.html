@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<!--Author - Cian Tivnan S00198481
+	Date - 24/11/2020	
+	Page Description - Project Checkout
+-->
+
+<html lang="en">
+<head>
+	<meta charset='utf-8' />
+	<meta name="description" content="Model Master offers a wide range of quality scale model kits, shipped fast from Ireland">
+	<meta name="keywords" content="Hobby, Shop, Models, Plastic, Scale, Modelling, Paint, Tools, Cars, Tanks, Planes">
+	<meta name="author" content="Cian Tivnan">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Model Master - Checkout</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
+    <link rel="stylesheet" type="text/css" href="css/custom.css"/>
+    <link rel="icon" type="image/png" href="images/favicon.png">
+</head>
+
+<body>
+    <header>
+        <img src=images/modelmaster.png>
+        
+
+        <form class="form-inline search">
+        <div class="btn-group">
+    <button type="button" class="btn btn-primary"  id="loginlogout" href="#">Login</button>
+    <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" id="dropdownMenuReference" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-reference="parent">
+      <span class="sr-only">Toggle Dropdown</span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuReference">
+      <a id="accountdetails" class="dropdown-item" href="userdetails.html">User Details</a>
+
+    </div>
+    </div>
+        <input class="form-control mr-sm-2 searchBar" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-dark my-2 my-sm-0" id="searchButton" type="submit">Search</button>
+        </form>
+
+        <nav class="navbar navbar-expand-lg navbar-dark">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <ul class="navbar-nav mr-auto" id="first">
+              <li><a class="nav-item nav-link" href="index.html">Home</a></li>       
+              <li><a class="nav-item nav-link" href="shop.html">Shop</a></li>
+              <li><a class="nav-item nav-link" href="contact.html">Contact</a></li>
+                </ul>
+                
+                <ul class="navbar-nav justify-content-end" id="second">
+                <li><a class="nav-item nav-link active" href="cart.html">Cart</a></li>
+                <li><p class="nav-item nav-link active" id="checkout"></p></li>
+                </ul>
+          </div>
+        </nav>
+    </header>    
+	
+	<main>
+        <div class="w-50 mx-auto text-center">
+        <h1>Checkout</h1>
+        <div>    
+            <div>
+              <form name="paymentdetails" id="pdetails" action="" method="get">
+                    <fieldset>
+                        <legend>Delivery Details</legend>
+                        <div class="row d-flex justify-content-center">
+                            
+                            <div class="col-6">
+                            <label for="getFirstName">First name</label>                
+                            <input type="text" class="form-control " id="getFirstName" name="firstname" value="Vladimir" required>
+                            </div>
+                            
+                            <div class="col-6">
+                            <label for="getLastName">Last name</label> 
+                            <input type="text" class="form-control" id="getLastName" name="lastname" value="Putin" required>
+                            </div>
+                            
+                        </div>    
+                        <div class="form-group">
+                            <label for="getAddress1">Address Line 1</label> 
+                            <input type="text" class="form-control" id="getAddress1" name="address2" value="Head Office, Kremlin" required>
+                        </div> 
+                        <div class="form-group">
+                            <label for="getCountry">Addresss Line 2</label> 
+                            <input type="text" class="form-control" id="getAddress2" name="address2"  value="Moscow">
+                        </div> 
+                            <div class="form-group">
+                            <label for="getCountry">Country</label> 
+                            <input type="text" class="form-control" id="getCountry" name="country"  value="Russian Federation"  required>
+                        </div> 
+                    </fieldset>    
+                    <fieldset>
+                        <legend>Payment Details</legend>
+                        <div class="form-group">
+                            <label for="getBillingName">Card Name</label> 
+                            <input type="text" class="form-control" id="getBillingName" name="cardname" value="MR VLADIMIR PUTIN" required>
+                        </div>   
+                        <div class="form-group">
+                            <label for="getCardNumber">Card Number</label> 
+                            <input type="text" class="form-control" id="getCardNumber" name="cardnumber" value="1234 5678 9102 3456" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="getCardCVC">CVC</label> 
+                            <input type="password" class="form-control" id="getCardCVC" name="cardcvc" value="123" required>
+                        </div>
+                    </fieldset>    
+                    <div class="alert alert-success d-none" id="payment-success" role="alert">
+                        Thank you for your purchase. You will receive delivery details via email. Please return to our <a href="shop.html">Shopping Page</a>.
+                    </div>
+                    <div class="alert alert-danger d-none" id="payment-failure" role="alert">
+                      There seems to be a problem with the card details you entered.
+                    </div>                
+
+                    <input type='submit' class="btn btn-primary" id="buy-button" value="Buy Now">
+                </form>
+
+
+            </div> 
+    </div>
+    </div>
+              
+
+	</main>
+    
+    
+	<footer>
+		&copy; Model Master Ireland  
+	</footer>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="js/states.js"></script>
+    <script src="js/checkout.js"></script>
+</body>
+</html>

@@ -1,0 +1,156 @@
+html {
+  font-family: sans-serif; }
+
+@media only screen and (max-width: 576px) {
+  header img {
+    width: 75%; }
+
+  .searchBar {
+    display: none; }
+
+  #searchButton {
+    display: none; }
+
+  .carousel {
+    width: 100%;
+    clear: both;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0; }
+
+  .indexBtn {
+    margin-top: 1em; } }
+@media only screen and (min-width: 750px) {
+  .carousel {
+    width: 75%;
+    clear: both;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0; }
+
+  #iframe {
+    width: 750px; } }
+@media only screen and (min-width: 1000px) {
+  .carousel {
+    width: 60%;
+    clear: both;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0; } }
+.btn {
+  background-color: #f05a67; }
+
+.navContainer {
+  position: relative; }
+
+.navbar {
+  margin: 10px;
+  border-top: 5px double white;
+  background-color: #04adc7;
+  font-size: 2em; }
+
+.navbar.cart {
+  float: right; }
+
+.navbar a {
+  position: relative; }
+
+header {
+  background-color: #04adc7; }
+
+header h1 {
+  font-size: 4em;
+  color: white;
+  padding-left: 1em;
+  display: inline-block; }
+
+.search {
+  float: right;
+  display: inline-block;
+  padding-top: 1.5em;
+  padding-right: 1em; }
+
+footer {
+  text-align: center; }
+
+#indexButtons .row {
+  margin: 1em; }
+
+.container {
+  display: flex;
+  flex-wrap: wrap; }
+
+.card {
+  overflow: hidden;
+  margin-top: 1em; }
+
+.carousel-item {
+  border-radius: 2em; }
+
+label {
+  float: left; }
+
+#checkoutButton {
+  margin: 2em; }
+
+a {
+  color: white;
+  text-decoration: none; }
+
+.alert a {
+  color: black; }
+
+#register {
+  color: black; }
+
+#map {
+  height: 500px;
+  width: 90%;
+  border: 0.5em solid #04adc7;
+  border-radius: 1em; }
+
+#indexButtons {
+  margin: 2em; }
+
+.video {
+  margin: 2em; }
+
+iframe {
+  margin: 1em; }
+
+table th {
+  padding-left: 1em; }
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse; }
+
+th, td {
+  padding: 5px;
+  text-align: left; }
+
+#contact {
+  padding-left: 1em; }
+
+#about h2 {
+  padding-left: .5em; }
+
+#about p {
+  padding-left: 1em; }
+
+#rowTwo {
+  margin-top: 3em; }
+
+#addressTable {
+  height: 50%; }
+
+footer {
+  background-color: #04adc7;
+  height: 2em;
+  color: white;
+  margin-top: 2em; }
+
+/*# sourceMappingURL=custom.css.map */
