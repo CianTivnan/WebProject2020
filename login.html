@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+<!--Author - Cian Tivnan S00198481
+	Date - 24/11/2020	
+	Page Description - Project Login
+-->
+
+<html lang="en">
+<head>
+	<meta charset='utf-8' />
+	<meta name="description" content="Model Master offers a wide range of quality scale model kits, shipped fast from Ireland">
+	<meta name="keywords" content="Hobby, Shop, Models, Plastic, Scale, Modelling, Paint, Tools, Cars, Tanks, Planes">
+	<meta name="author" content="Cian Tivnan">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Model Master - Login</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
+    <link rel="stylesheet" type="text/css" href="css/custom.css"/>
+    <link rel="icon" type="image/png" href="images/favicon.png">
+</head>
+
+<body>
+    <header>
+        <img src=images/modelmaster.png>
+        
+
+        <form class="form-inline search">
+        <div class="btn-group">
+    <button type="button" class="btn btn-primary"  id="loginlogout" href="#">Login</button>
+    <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" id="dropdownMenuReference" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-reference="parent">
+      <span class="sr-only">Toggle Dropdown</span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuReference">
+      <a id="accountdetails" class="dropdown-item" href="userdetails.html">User Details</a>
+
+    </div>
+    </div>
+        <input class="form-control mr-sm-2 searchBar" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-dark my-2 my-sm-0" id="searchButton" type="submit">Search</button>
+        </form>
+
+        <nav class="navbar navbar-expand-lg navbar-dark">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <ul class="navbar-nav mr-auto" id="first">
+              <li><a class="nav-item nav-link" href="index.html">Home</a></li>       
+              <li><a class="nav-item nav-link" href="shop.html">Shop</a></li>
+              <li><a class="nav-item nav-link" href="contact.html">Contact</a></li>
+                </ul>
+                
+                <ul class="navbar-nav justify-content-end" id="second">
+                <li><a class="nav-item nav-link active" href="cart.html">Cart</a></li>
+                <li><p class="nav-item nav-link active" id="checkout"></p></li>
+                </ul>
+          </div>
+        </nav>
+    </header>    
+	
+	<main>
+        <div class="login mx-auto text-center">
+        <h1>Login</h1>
+        <div class="row w-50 mx-auto">    
+            <div class="col-sm col-md-12"> 
+                <div class="alert alert-danger d-none" role="alert" id="loginerror">The username or password you entered is incorrect. <a href="">Forgot your password?</a></div>    
+                <form name="login" action="" method="get">
+                    <div class="row">
+                    <div class="form-group col-xs-6 mx-auto">
+                        <label for="getEmail">Email address</label>
+                        <input type="email" class="form-control" id="getEmail" name="email" value="vladdyp@kremlin.ru" required>
+                    </div>
+                    </div>
+                    <div class="row">
+                    <div class="form-group col-xs-6 mx-auto">
+                        <label for="getPassword1">Password</label> 
+                        <input type="password" class="form-control" id="getPassword1" name="password" value="password1" required>
+                    </div>  
+                    </div>
+                    <input type='submit' class="btn btn-primary" value="Login">
+                </form>
+                <p><a id="register" href="#">Need to Register?</a></p>
+
+            </div> 
+        </div>
+        </div>
+              
+
+	</main>
+    
+    
+	<footer>
+		&copy; Model Master Ireland  
+	</footer>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="js/states.js"></script>
+</body>
+</html>
